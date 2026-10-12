@@ -1,1 +1,1 @@
-# email-signature-assets
+Logos and icons for Jason's email signatures.
